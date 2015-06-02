@@ -1,0 +1,22 @@
+1433274266463 <ThePendulum> hello
+1433274268833 <ThePendulum> ~last ThePendulum
+1433274271609 <ThePendulum> ffs
+1433274318799 <Jo5hua> bwahaha
+1433274322211 <Jo5hua> paste the code
+1433274337971 <ThePendulum>  var lastSeen = moment.unix(lastMessage.split(' ')[0]).fromNow();
+1433274341169 <ThePendulum> they're UNIX timestamps
+1433274397498 <ThePendulum> ~last ThePendulum
+1433274401154 <Jo5hua> you dont have a rehash command? :)
+1433274418347 <ThePendulum> no
+1433274467098 <ThePendulum> ~last ThePendulum
+1433274470109 <ThePendulum> AT LAST
+1433274480440 <Jo5hua> woohoo!!
+1433274487119 <ThePendulum> ~last Jo5hua
+1433274494715 <Jo5hua> ~last coachz
+1433274506004 <Jo5hua> ~last foobot
+1433274509014 <Jo5hua> hah
+1433274515830 <ThePendulum> it doesn't log itself for some reason
+1433274530492 <Jo5hua> !seen {core}
+1433274530891 <{core}> jo5hua, I have not seen {core}, sorry
+1433274535622 <Jo5hua> same with mine :)
+1433274537638 <ThePendulum> haha

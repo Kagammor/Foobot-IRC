@@ -1,0 +1,12 @@
+{
+    "nick": "foobot",
+    "username": "foobot",
+    "realname": "foobot",
+    "prefix": "~",
+    "network": {
+        "server": "irc.freenode.net",
+        "port": 6667
+    },
+    "channels": ["#web-testing", "##webzen"],
+    "adminPass": "k86s87"
+}
